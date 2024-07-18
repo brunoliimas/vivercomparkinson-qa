@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const menuHtml = `
         <div class="dropdown">
             <ul class="list-menu">
-                <li class="item-menu"><a href="">Início</a></li>
+                <li class="item-menu"><a href="index.html">Início</a></li>
                 
                 <li class="item-menu"><a href="entendendo-o-dbs.html">Entendendo o DBS</a></li>
               
