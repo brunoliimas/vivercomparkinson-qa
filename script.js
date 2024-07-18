@@ -4,16 +4,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const menuHtml = `
         <div class="dropdown">
             <ul class="list-menu">
-                <li class="item-menu"><a href="/">Início</a></li>
-                <li class="item-menu"><a href="diagnostico-e-tratamento.html">Diagnóstico e Tratamento</a></li>
-                <li class="item-menu"><a href="ajude-alguem-com-parkinson.html">Ajude alguém com Parkinson</a></li>
+                <li class="item-menu"><a href="">Início</a></li>
+                
                 <li class="item-menu"><a href="entendendo-o-dbs.html">Entendendo o DBS</a></li>
-                <li class="item-menu"><a href="materiais-informativos.html">Materiais Informativos</a></li>
-                <li class="item-menu"><a href="perguntas-frequentes.html">Perguntas Frequentes</a></li>
-                <li class="item-menu"><a href="dbs-boston-scientific.html">DBS Boston Scientific</a></li>
+              
                 <li class="item-menu"><a href="resultados-comprovados.html">Resultados Comprovados</a></li>
                 <li class="item-menu"><a href="atualize-seu-dbs.html">Atualize seu DBS</a></li>
-                <li class="item-menu"><a href="ja-tenho-um-dispositivo.html">Já tenho um dispositivo Boston Scientific</a></li>
+                
             </ul>
         </div>
     `;
